@@ -1,6 +1,8 @@
 <h1 align="center">Oiiii 👋, eu me chamo Maria Gabriela</h1>
 <h3 align="center">Sou graduanda de Sistemas para Internet, desenvolvedora e especialista em SQL. Trabalhei um bom tempo em suporte técnico com o PostgreSQL, desenvolvendo relatórios customizados para cliente, mas tenho conhecimento nos demais bancos de dados mais utilizados no mercado atualmente. Hoje em dia atuo no Grupo Alura como Scuba e tenho me dedicado mais ao BI :bar_chart:</h3>
 
+<img src="https://media.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif?cid=ecf05e47lwukpmcz1j11tsli085qflrtl8xlvf1rlr0kvrxn&rid=giphy.gif&ct=g" alt="imagem animada do capitão spock segurando um gato escrito dados e gatos não mentem" align="right"/>
+
 - 📝 Costumo escrever alguns artigos no dev.to [https://dev.to/mgabrielacuenca](https://dev.to/mgabrielacuenca)
 
 - 💬 Você pode me perguntar sobre **PostgreSQL, MySQL, SQL Server, Elasticsearch, Java, Power BI, Tableau, SQL. Fique à vontade :D**
