@@ -1,5 +1,5 @@
 <h1 align="center">Oiiii 👋, eu me chamo Maria Gabriela</h1>
-<h3 align="center">Sou graduada de Sistemas para Internet, desenvolvedora e especialista em SQL. Trabalhei um bom tempo em suporte técnico com o PostgreSQL, desenvolvendo relatórios customizados para cliente, mas tenho conhecimento nos demais bancos de dados mais utilizados no mercado atualmente. Hoje em dia atuo no Grupo Alura como Instrutora de Dados e tenho me dedicado mais ao BI e Machine Learning voltado para o Power BI:bar_chart:</h3>
+<h3 align="center">Sou graduada de Sistemas para Internet, desenvolvedora e especialista em SQL. Trabalhei um bom tempo em suporte técnico com o PostgreSQL, desenvolvendo relatórios customizados para cliente, mas tenho conhecimento nos demais bancos de dados mais utilizados no mercado atualmente. :bar_chart:</h3>
 
 <img src="https://media.giphy.com/media/grlkPWm6vpdRqZqMQV/giphy.gif?cid=ecf05e47lwukpmcz1j11tsli085qflrtl8xlvf1rlr0kvrxn&rid=giphy.gif&ct=g" alt="imagem animada do capitão spock segurando um gato escrito dados e gatos não mentem" align="right"/>
 
